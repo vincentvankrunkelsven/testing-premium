@@ -6,5 +6,5 @@ chapters:
     chapter_description: Description
     exercises:
       - type: NormalExercise
-        title: Titleke this doesn't work
+        title: Titleke this doesn't work test now it does
         content: Content
