@@ -1,5 +1,5 @@
 course_title: Template R Course
-course_description: This is a template course.
+course_description: 'This is a template course, testing'
 programming_language: r
 chapters:
   - chapter_title: Template Chapter
