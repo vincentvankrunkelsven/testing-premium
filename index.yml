@@ -2,12 +2,6 @@ course_title: Template R Course
 course_description: 'This is a template course, testing'
 programming_language: r
 chapters:
-  - chapter_title: Template Chapter
-    chapter_description: This is a template chapter.
-    exercises:
-      - type: NormalExercise
-        title: Exercise 2
-        content: Second exercise
-      - type: NormalExercise
-        title: Exercise 1
-        content: First exercise
+  - chapter_title: Title
+    chapter_description: Description
+    exercises: []
