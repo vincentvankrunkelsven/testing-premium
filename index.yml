@@ -6,5 +6,8 @@ chapters:
     chapter_description: This is a template chapter.
     exercises:
       - type: NormalExercise
-        title: Template exercise
-        content: This is a template exercise.
+        title: Exercise 1
+        content: First exercise
+      - type: NormalExercise
+        title: Exercise 2
+        content: Second exercise
